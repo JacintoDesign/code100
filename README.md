@@ -10,3 +10,9 @@ Tweaked the font color on splash page, made line a brighter white. I also planne
 
 Day 14: 
 Got the About section mostly finished. 
+
+Day 15: 
+Cleaned up Github repositories, updated a few. 
+
+Day 16: 
+Made a lot of mockups, made the mobile version of the splash page look better. 
