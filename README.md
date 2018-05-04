@@ -16,3 +16,6 @@ Cleaned up Github repositories, updated a few.
 
 Day 16: 
 Made a lot of mockups, made the mobile version of the splash page look better. 
+
+Day 17: 
+Made the front-end of the contact form. 
