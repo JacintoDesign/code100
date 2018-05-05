@@ -22,3 +22,6 @@ Made the front-end of the contact form.
 
 Day 18: 
 Completed the back-end for the contact form. New Website is temporarily live. Need to finish projects section. 
+
+Day 19: 
+Working on project information/mockups. 
