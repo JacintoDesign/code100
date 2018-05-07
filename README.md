@@ -25,3 +25,6 @@ Completed the back-end for the contact form. New Website is temporarily live. Ne
 
 Day 19: 
 Working on project information/mockups. 
+
+Day 20: 
+Optimized resume with new information, tested for mobile and desktop. 
