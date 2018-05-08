@@ -1,4 +1,4 @@
-100 Days of Code (April 17, 2018 - July 26, 2018)
+# 100 Days of Code (April 17, 2018 - July 26, 2018)
 
 This is a record of my 100 Days of Code. I will post screenshots in the repository to show my progress each day. 
 
@@ -28,3 +28,6 @@ Working on project information/mockups.
 
 Day 20: 
 Optimized resume with new information, tested for mobile and desktop. 
+
+Day 21: 
+Optimized swiper, quote generator. Got mockups for everything except for cryptoticker. 
