@@ -34,3 +34,6 @@ Optimized swiper, quote generator. Got mockups for everything except for cryptot
 
 Day 22: 
 Re-made cryptoticker, finished mock-ups for project section, added titles to icons, wrote project descriptions. 
+
+Day 23: 
+Optimized contact thank-you page, cleaned up website code and uploaded to Github. 
