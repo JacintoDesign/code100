@@ -31,3 +31,6 @@ Optimized resume with new information, tested for mobile and desktop.
 
 Day 21: 
 Optimized swiper, quote generator. Got mockups for everything except for cryptoticker. 
+
+Day 22: 
+Re-made cryptoticker, finished mock-ups for project section, added titles to icons, wrote project descriptions. 
