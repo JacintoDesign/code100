@@ -37,3 +37,6 @@ Re-made cryptoticker, finished mock-ups for project section, added titles to ico
 
 Day 23: 
 Optimized contact thank-you page, cleaned up website code and uploaded to Github. 
+
+Day 24: 
+Fixed a bug with social icons being the wrong size on the footer. 
