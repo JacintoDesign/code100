@@ -2,6 +2,8 @@
 
 This is a record of my 100 Days of Code. I will post screenshots in the repository to show my progress each day. 
 
+Day 1-11: Finished final project and course work for Zero to Mastery Web Development course. 
+
 Day 12:
 Finished the splash page for the new version of the website. 
 
