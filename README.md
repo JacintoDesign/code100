@@ -44,4 +44,7 @@ Day 24:
 Fixed a bug with social icons being the wrong size on the footer. 
 
 Day 25: 
-Working on Guided Joy Stripe Integration. 
+Learning about Wordpress and Stripe. 
+
+Day 26: 
+Completed Animated Triangles for the Codepen Swiper. 
