@@ -48,3 +48,6 @@ Learning about Wordpress and Stripe.
 
 Day 26: 
 Completed Animated Triangles for the Codepen Swiper. 
+
+Day 27: 
+Modified Particles and Asteroids Codepens, refined Quote Generator buttons, added titles to Github links. 
