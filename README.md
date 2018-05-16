@@ -51,3 +51,6 @@ Completed Animated Triangles for the Codepen Swiper.
 
 Day 27: 
 Modified Particles and Asteroids Codepens, refined Quote Generator buttons, added titles to Github links. 
+
+Day 28: 
+Added new pens and all-new icons to Codepen Swiper. Tried to improve user experience with titles. 
