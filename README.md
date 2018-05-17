@@ -1,6 +1,16 @@
 # 100 Days of Code (April 17, 2018 - July 26, 2018)
 
-This is a record of my 100 Days of Code. I will post screenshots in the repository to show my progress each day. 
+*This is a record of my 100 Days of Code. The following links are for projects I worked on during the challenge.* 
+
+## Projects
+
+[Jacinto Design Website](https://jacinto.design)
+[Codepen Swiper](https://jacinto.design/swiper)
+[Quote Generator](https://jacinto.design/quote)
+[Web Resume](https://jacinto.design/resume)
+[Cryptoticker](https://jacintodesign.github.io/cryptoticker/)
+
+### Daily Log
 
 Day 1-11: Finished final project and course work for Zero to Mastery Web Development course. 
 
