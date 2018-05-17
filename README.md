@@ -54,3 +54,6 @@ Modified Particles and Asteroids Codepens, refined Quote Generator buttons, adde
 
 Day 28: 
 Added new pens and all-new icons to Codepen Swiper. Tried to improve user experience with titles. 
+
+Day 29: 
+Re-did swiper mockups, added redux to Robofriends app. 
