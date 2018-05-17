@@ -4,13 +4,13 @@
 
 ## Projects
 
-[Jacinto Design Website](https://jacinto.design)
-[Codepen Swiper](https://jacinto.design/swiper)
-[Quote Generator](https://jacinto.design/quote)
-[Web Resume](https://jacinto.design/resume)
-[Cryptoticker](https://jacintodesign.github.io/cryptoticker/)
+### [Jacinto Design Website](https://jacinto.design)
+### [Codepen Swiper](https://jacinto.design/swiper)
+### [Quote Generator](https://jacinto.design/quote)
+### [Web Resume](https://jacinto.design/resume)
+### [Cryptoticker](https://jacintodesign.github.io/cryptoticker/)
 
-### Daily Log
+#### Daily Log
 
 Day 1-11: Finished final project and course work for Zero to Mastery Web Development course. 
 
