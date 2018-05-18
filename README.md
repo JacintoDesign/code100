@@ -67,3 +67,6 @@ Added new pens and all-new icons to Codepen Swiper. Tried to improve user experi
 
 Day 29: 
 Re-did swiper mockups, added redux to Robofriends app. 
+
+Day 30:
+So busy making a responsive site that I forgot to post about it. Womp Womp, second time that's happened. 
