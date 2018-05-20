@@ -70,3 +70,9 @@ Re-did swiper mockups, added redux to Robofriends app.
 
 Day 30:
 So busy making a responsive site that I forgot to post about it. Womp Womp, second time that's happened. 
+
+Day 31:
+Spent about 10 hours working on the site today, made it mostly responsive, but couldn't figure out AJAX calls. 
+
+Day 32: 
+Re-attempted the JQuery to connect the database. 
