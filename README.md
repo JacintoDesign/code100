@@ -76,3 +76,6 @@ Spent about 10 hours working on the site today, made it mostly responsive, but c
 
 Day 32: 
 Re-attempted the JQuery to connect the database. 
+
+Day 33: 
+Jacinto Design: Fixed breakpoints for tablets. 
