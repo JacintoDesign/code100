@@ -79,3 +79,9 @@ Re-attempted the JQuery to connect the database.
 
 Day 33: 
 Jacinto Design: Fixed breakpoints for tablets. 
+
+Day 34: 
+Forgot to update this again, but believe me I was coding, working on the responsive site. 
+
+Day 35: 
+Finished the responsive site, including AJAX call. 
