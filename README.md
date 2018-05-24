@@ -85,3 +85,6 @@ Forgot to update this again, but believe me I was coding, working on the respons
 
 Day 35: 
 Finished the responsive site, including AJAX call. 
+
+Day 36: 
+Uploaded responsive site to Github. Created new and unique resume with icons/links to online resume etc. Logo in PSD. 
