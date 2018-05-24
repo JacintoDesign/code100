@@ -88,3 +88,6 @@ Finished the responsive site, including AJAX call.
 
 Day 36: 
 Uploaded responsive site to Github. Created new and unique resume with icons/links to online resume etc. Logo in PSD. 
+
+Day 37: 
+Began creating an entry for Coding Challenge 5. 
