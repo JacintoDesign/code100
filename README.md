@@ -9,6 +9,7 @@
 ### [Quote Generator](https://jacinto.design/quote)
 ### [Web Resume](https://jacinto.design/resume)
 ### [Cryptoticker](https://jacintodesign.github.io/cryptoticker/)
+### [Responsive Site Example](https://jacintodesign.github.io/responsive-site-example/)
 
 ## Daily Log
 
@@ -94,3 +95,6 @@ Began creating an entry for Coding Challenge 5.
 
 Day 38:
 Learned about SSH and set up a server with it. Also linked to my Github through SSH. Refined Coding Challenge 5. 
+
+Day 39:
+Learned about Critical Render Path optimization. Worked a little on CC5. 
