@@ -91,3 +91,6 @@ Uploaded responsive site to Github. Created new and unique resume with icons/lin
 
 Day 37: 
 Began creating an entry for Coding Challenge 5. 
+
+Day 38:
+Learned about SSH and set up a server with it. Also linked to my Github through SSH. Refined Coding Challenge 5. 
