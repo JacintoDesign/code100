@@ -98,3 +98,6 @@ Learned about SSH and set up a server with it. Also linked to my Github through 
 
 Day 39:
 Learned about Critical Render Path optimization. Worked a little on CC5. 
+
+Day 40: 
+Finished learning about optimizing for the Critical Render Path. Tomorrow I will attempt to make a website smaller. 
