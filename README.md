@@ -101,3 +101,9 @@ Learned about Critical Render Path optimization. Worked a little on CC5.
 
 Day 40: 
 Finished learning about optimizing for the Critical Render Path. Tomorrow I will attempt to make a website smaller. 
+
+Day 41: 
+Worked more on CC5. 
+
+Day 42: 
+Optimized images on my website to reduce file size by 70%. Experimented with video background. 
