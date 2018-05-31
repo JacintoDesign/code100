@@ -107,3 +107,6 @@ Worked more on CC5.
 
 Day 42: 
 Optimized images on my website to reduce file size by 70%. Experimented with video background. 
+
+Day 43: 
+Had an in-person interview for a developer role. Also did on a consult on a financial planning app. 
