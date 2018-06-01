@@ -10,7 +10,7 @@
 ### [Web Resume](https://jacinto.design/resume)
 ### [Cryptoticker](https://jacintodesign.github.io/cryptoticker/)
 ### [Responsive Site Example](https://jacintodesign.github.io/responsive-site-example/)
-### [Coding Challenge 5](https://jacintodesign.github.io/responsive-site-example/)
+### [Coding Challenge 5](https://jacintodesign.github.io/coding-challenge-5/)
 
 ## Daily Log
 
