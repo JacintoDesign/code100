@@ -110,3 +110,6 @@ Optimized images on my website to reduce file size by 70%. Experimented with vid
 
 Day 43: 
 Had an in-person interview for a developer role. Worked on CC5. 
+
+Day 44: 
+Updated Github Readmes and finished coding challenge 5. 
