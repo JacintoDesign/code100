@@ -114,3 +114,6 @@ Had an in-person interview for a developer role. Worked on CC5.
 
 Day 44: 
 Updated Github Readmes and finished coding challenge 5. 
+
+Day 45: 
+Optimized images and video for CC5 and added it to my website. 
