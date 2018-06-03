@@ -117,3 +117,6 @@ Updated Github Readmes and finished coding challenge 5.
 
 Day 45: 
 Optimized images and video for CC5 and added it to my website. 
+
+Day 46: 
+Learned about code splitting/routing in a react project. 
