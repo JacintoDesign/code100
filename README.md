@@ -123,3 +123,6 @@ Learned about code splitting/routing in a react project.
 
 Day 47: 
 Explored codepen and thought about new ideas for next project.  
+
+Day 48:
+Turned Robofriends into a Progressive Web App. 
