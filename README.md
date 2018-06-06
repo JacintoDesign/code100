@@ -128,3 +128,6 @@ Explored codepen and thought about new ideas for next project.
 
 Day 48:
 Turned Robofriends into a Progressive Web App. 
+
+Day 49: 
+Ran unit tests on Robofriends using Jest. 
