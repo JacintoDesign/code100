@@ -131,3 +131,6 @@ Turned Robofriends into a Progressive Web App.
 
 Day 49: 
 Ran unit tests on Robofriends using Jest. 
+
+Day 50: 
+Added unit tests to Robofriends repository, improved JacintoDesign score on Lighthouse. 
