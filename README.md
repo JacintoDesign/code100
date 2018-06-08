@@ -134,3 +134,6 @@ Ran unit tests on Robofriends using Jest.
 
 Day 50: 
 Added unit tests to Robofriends repository, improved JacintoDesign score on Lighthouse. 
+
+Day 51: 
+Worked with Typescript, had two phone interviews for developer positions. 
