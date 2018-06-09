@@ -137,3 +137,6 @@ Added unit tests to Robofriends repository, improved JacintoDesign score on Ligh
 
 Day 51: 
 Worked with Typescript, had two phone interviews for developer positions. 
+
+Day 52: 
+Learned how to do SSR and the difference between CSR. Started learning about injections as well. 
