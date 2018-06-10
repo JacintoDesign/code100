@@ -140,3 +140,6 @@ Worked with Typescript, had two phone interviews for developer positions.
 
 Day 52: 
 Learned how to do SSR and the difference between CSR. Started learning about injections as well. 
+
+Day 53: 
+Learned more about security, including logging, data management, and authentication. 
