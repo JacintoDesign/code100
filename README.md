@@ -143,3 +143,6 @@ Learned how to do SSR and the difference between CSR. Started learning about inj
 
 Day 53: 
 Learned more about security, including logging, data management, and authentication. 
+
+Day 54:
+Added multiple face detection to smart brain app. 
