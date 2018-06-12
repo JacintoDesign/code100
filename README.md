@@ -146,3 +146,9 @@ Learned more about security, including logging, data management, and authenticat
 
 Day 54:
 Added multiple face detection to smart brain app. 
+
+Day 55: 
+Forgot to update README for the third time, haha. Started learning about Docker. 
+
+Day 56: 
+Got Docker setup on Windows and began working with containers. 
