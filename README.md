@@ -152,3 +152,7 @@ Forgot to update README for the third time, haha. Started learning about Docker.
 
 Day 56: 
 Got Docker setup on Windows and began working with containers. 
+
+Day 57:
+Finished learning about Docker Compose and set up Redis on Windows after much effort.  
+
