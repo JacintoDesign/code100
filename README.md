@@ -156,3 +156,5 @@ Got Docker setup on Windows and began working with containers.
 Day 57:
 Finished learning about Docker Compose and set up Redis on Windows after much effort.  
 
+Day 58: 
+Worked on incorporating sessions in the Smart Brain app. 
