@@ -158,3 +158,9 @@ Finished learning about Docker Compose and set up Redis on Windows after much ef
 
 Day 58: 
 Worked on incorporating sessions in the Smart Brain app. 
+
+Day 59: 
+Worked on learning animations wiith Grasshopper. Forgot to update again. 
+
+Day 60: 
+Finished animation section in Grasshopper. 
