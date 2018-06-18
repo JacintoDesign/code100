@@ -163,4 +163,7 @@ Day 59:
 Worked on learning animations wiith Grasshopper. Forgot to update again. 
 
 Day 60: 
-Finished animation section in Grasshopper. 
+Finished animation section part 1 in Grasshopper app. 
+
+Day 61: 
+Started animation section part 2 in Grasshopper app.
