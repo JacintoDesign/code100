@@ -167,3 +167,6 @@ Finished animation section part 1 in Grasshopper app.
 
 Day 61: 
 Started animation section part 2 in Grasshopper app.
+
+Day 62: 
+I am planning out how to get more done on my projects.
