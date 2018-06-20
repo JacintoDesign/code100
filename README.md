@@ -1,4 +1,4 @@
-# 100 Days of Code (April 17, 2018 - July 26, 2018)
+# 100 Days of Code (April 17, 2018 - August 1, 2018)
 
 *This is a record of my 100 Days of Code. The following links are for projects I worked on during the challenge.* 
 
@@ -170,3 +170,9 @@ Started animation section part 2 in Grasshopper app.
 
 Day 62: 
 I am planning out how to get more done on my projects.
+
+Day 63: 
+Took a break. 
+
+Day 64: 
+Tried to get Docker up and running again, but the internet connection has been limited. 
