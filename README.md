@@ -175,4 +175,7 @@ Day 63:
 Took a break. 
 
 Day 64: 
-Tried to get Docker up and running again, but the internet connection has been limited. 
+Got Docker running again, but couldn't figure out the undefined error I was getting. 
+
+Day 65: 
+Re-made a video background page with my PC video. 
