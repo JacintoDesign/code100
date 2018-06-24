@@ -179,3 +179,9 @@ Got Docker running again, but couldn't figure out the undefined error I was gett
 
 Day 65: 
 Re-made a video background page with my PC video. 
+
+Day 66: 
+Last day in the Dominican/flight home, so took another break.
+
+Day 67: 
+Prepared for first day at the new job, did some hardware research as well. 
