@@ -185,3 +185,6 @@ Last day in the Dominican/flight home, so took another break.
 
 Day 67: 
 Prepared for first day at the new job, did some hardware research as well. 
+
+Day 68: 
+Prepared some more for starting the new job tomorrow! 
