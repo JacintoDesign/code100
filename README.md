@@ -188,3 +188,6 @@ Prepared for first day at the new job, did some hardware research as well.
 
 Day 68: 
 Prepared some more for starting the new job tomorrow! 
+
+Day 69:
+First day as a Senior Web Developer at CBC! 
