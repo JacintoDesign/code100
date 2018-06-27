@@ -194,3 +194,6 @@ First day as a Senior Web Developer at CBC! Mostly just watched training videos,
 
 Day 70:
 Second day on the job, set up Parallels to run Windows 10 Pro on the Macbook and got VS set up. 
+
+Dy 71:
+Third day, and I set up my terminal and started learning about Angular, also set up my SSH key. 
