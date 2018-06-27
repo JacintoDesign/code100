@@ -190,4 +190,7 @@ Day 68:
 Prepared some more for starting the new job tomorrow! 
 
 Day 69:
-First day as a Senior Web Developer at CBC! 
+First day as a Senior Web Developer at CBC! Mostly just watched training videos, but also got a Macbook Pro to work on!
+
+Day 70:
+Second day on the job, set up Parallels to run Windows 10 Pro on the Macbook and got VS set up. 
