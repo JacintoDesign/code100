@@ -197,3 +197,6 @@ Second day on the job, set up Parallels to run Windows 10 Pro on the Macbook and
 
 Dy 71:
 Third day, and I set up my terminal and started learning about Angular, also set up my SSH key. 
+
+Day 72:
+Fourth day and I sat in on some SEP meetings, and am 60% of the way through the Angular course. 
