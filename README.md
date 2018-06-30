@@ -200,3 +200,6 @@ Third day, and I set up my terminal and started learning about Angular, also set
 
 Day 72:
 Fourth day and I sat in on some SEP meetings, and am 60% of the way through the Angular course. 
+
+Day 73: 
+Fifth day on the job, and I am 80% of the way through the Angular course, also learned how to build a project in Visual Studio. 
