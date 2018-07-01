@@ -203,3 +203,6 @@ Fourth day and I sat in on some SEP meetings, and am 60% of the way through the 
 
 Day 73: 
 Fifth day on the job, and I am 80% of the way through the Angular course, also learned how to build a project in Visual Studio. 
+
+Day 74:
+Drafted two posts on Medium, about 100 Days of Code and Becoming a Senior Developer in 4 Months. 
