@@ -206,3 +206,8 @@ Fifth day on the job, and I am 80% of the way through the Angular course, also l
 
 Day 74:
 Drafted two posts on Medium, about 100 Days of Code and Becoming a Senior Developer in 4 Months. 
+
+Day 75:
+Took a break on Canada Day because it was too hot to think.
+
+Day 76: 
