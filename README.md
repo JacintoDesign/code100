@@ -211,3 +211,7 @@ Day 75:
 Took a break on Canada Day because it was too hot to think.
 
 Day 76: 
+Still too hot to think, will add some extra days at the end. 
+
+Day 77:
+Learned a lot more about the Angular CLI. 
