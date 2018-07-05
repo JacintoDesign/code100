@@ -218,3 +218,6 @@ Learned a lot more about the Angular CLI.
 
 Day 78: 
 Finished module about the Angular CLI. 
+
+Day 79: 
+Did several Sketch tutorials, backed up my Windows Parallel as well. 
