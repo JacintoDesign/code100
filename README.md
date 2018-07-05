@@ -215,3 +215,6 @@ Still too hot to think, will add some extra days at the end.
 
 Day 77:
 Learned a lot more about the Angular CLI. 
+
+Day 78: 
+Finished module about the Angular CLI. 
