@@ -221,3 +221,6 @@ Finished module about the Angular CLI.
 
 Day 79: 
 Did several Sketch tutorials, backed up my Windows Parallel as well. 
+
+Day 80:
+Continued learning tutorials through Sketch, built a Creative Tim Angular Dashboard. 
