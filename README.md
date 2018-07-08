@@ -224,3 +224,6 @@ Did several Sketch tutorials, backed up my Windows Parallel as well.
 
 Day 80:
 Continued learning tutorials through Sketch, built a Creative Tim Angular Dashboard. 
+
+Day 81:
+Brainstorming for course on design and development. 
