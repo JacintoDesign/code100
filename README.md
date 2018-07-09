@@ -227,3 +227,6 @@ Continued learning tutorials through Sketch, built a Creative Tim Angular Dashbo
 
 Day 81:
 Brainstorming for course on design and development. 
+
+Day 82:
+Continued brainstorming for the course. 
