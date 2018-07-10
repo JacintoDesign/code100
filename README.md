@@ -230,3 +230,6 @@ Brainstorming for course on design and development.
 
 Day 82:
 Continued brainstorming for the course. 
+
+Day 83: 
+Continued working on Sketch tutorials and then looked at some CSS animations. 
