@@ -233,3 +233,9 @@ Continued brainstorming for the course.
 
 Day 83: 
 Continued working on Sketch tutorials and then looked at some CSS animations. 
+
+Day 84: 
+Missed updating, but figured out a way to put a bootstrap carousel inside a card deck. 
+
+Day 85:
+Examined unique dropdown menu options. 
