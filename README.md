@@ -241,4 +241,7 @@ Day 85:
 Examined unique dropdown menu options. 
 
 Day 86: 
-Began putting together the mockup for my prosposed changes to the project. 
+Began putting together the mockup for my prosposed changes to the project, Finished second Medium article. 
+
+Day 87:
+Finished putting together the mockup for the project. 
