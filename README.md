@@ -239,3 +239,6 @@ Missed updating, but figured out a way to put a bootstrap carousel inside a card
 
 Day 85:
 Examined unique dropdown menu options. 
+
+Day 86: 
+Began putting together the mockup for my prosposed changes to the project. 
