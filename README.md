@@ -245,3 +245,6 @@ Began putting together the mockup for my prosposed changes to the project, Finis
 
 Day 87:
 Finished putting together the mockup for the project. 
+
+Day 88: 
+Spent time planning for design and development course. 
