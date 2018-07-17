@@ -251,3 +251,6 @@ Spent time planning for design and development course.
 
 Day 89: 
 Updated online resume, planned out 4 sections for the course with detailed outlines. 
+
+Day 90:
+Worked on pre-planning for mock-up for project. Wrote a little more for the course. 
