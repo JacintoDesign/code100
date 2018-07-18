@@ -254,3 +254,6 @@ Updated online resume, planned out 4 sections for the course with detailed outli
 
 Day 90:
 Worked on pre-planning for mock-up for project. Wrote a little more for the course. 
+
+Day 91:
+Created Trello board which helped map the rest of the mock-up components. Started prototyping as I'm going. 
