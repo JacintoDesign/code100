@@ -257,3 +257,6 @@ Worked on pre-planning for mock-up for project. Wrote a little more for the cour
 
 Day 91:
 Created Trello board which helped map the rest of the mock-up components. Started prototyping as I'm going. 
+
+Day 92:
+Completed course outline. 
