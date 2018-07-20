@@ -264,4 +264,5 @@ Completed writing course outline for design and development.
 Day 93:
 Continued prototyping project UI in Sketch. 
 
-
+Day 94:
+Finished Mock-up prototyping in Sketch and presented it to my project manager. 
