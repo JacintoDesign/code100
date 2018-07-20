@@ -259,4 +259,9 @@ Day 91:
 Created Trello board which helped map the rest of the mock-up components. Started prototyping as I'm going. 
 
 Day 92:
-Completed course outline. 
+Completed writing course outline for design and development.
+
+Day 93:
+Continued prototyping project UI in Sketch. 
+
+
