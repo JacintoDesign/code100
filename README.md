@@ -269,3 +269,6 @@ Finished Mock-up prototyping in Sketch and presented it to my project manager.
 
 Day 95:
 Downloaded program to test screen capture for the course, did test recordings. 
+
+Day 96:
+Put all tasks for making the course on a Trello board. 
