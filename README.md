@@ -266,3 +266,6 @@ Continued prototyping project UI in Sketch.
 
 Day 94:
 Finished Mock-up prototyping in Sketch and presented it to my project manager. 
+
+Day 95:
+Downloaded program to test screen capture for the course, did test recordings. 
