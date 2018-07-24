@@ -272,3 +272,6 @@ Downloaded program to test screen capture for the course, did test recordings.
 
 Day 96:
 Put all tasks for making the course on a Trello board. 
+
+Day 97: 
+Conducted UX surveys and gained some good insights. 
