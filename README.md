@@ -275,3 +275,6 @@ Put all tasks for making the course on a Trello board.
 
 Day 97: 
 Conducted UX surveys and gained some good insights. 
+
+Day 98:
+Continued with UX surveys and began compiling ideas. 
