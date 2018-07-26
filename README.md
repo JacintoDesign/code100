@@ -278,3 +278,6 @@ Conducted UX surveys and gained some good insights.
 
 Day 98:
 Continued with UX surveys and began compiling ideas. 
+
+Day 99:
+Had a meeting about project UI/UX and created a report on it. 
