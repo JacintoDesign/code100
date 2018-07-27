@@ -281,3 +281,6 @@ Continued with UX surveys and began compiling ideas.
 
 Day 99:
 Had a meeting about project UI/UX and created a report on it. 
+
+Day 100: 
+Put UX findings into an actionable plan. 
