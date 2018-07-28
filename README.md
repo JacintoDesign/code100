@@ -283,4 +283,11 @@ Day 99:
 Had a meeting about project UI/UX and created a report on it. 
 
 Day 100: 
-Put UX findings into an actionable plan. 
+I put the UX findings into an actionable plan.
+
+### Bonus Days to make up for days missed. 
+
+Day 101:
+Dug into the code for the project and figured out how to tweak a few things. 
+
+
