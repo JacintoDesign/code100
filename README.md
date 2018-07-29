@@ -290,4 +290,5 @@ I put the UX findings into an actionable plan.
 Day 101:
 Dug into the code for the project and figured out how to tweak a few things. 
 
-
+Day 102:
+Continued work on the course. 
