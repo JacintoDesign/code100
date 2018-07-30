@@ -292,3 +292,6 @@ Dug into the code for the project and figured out how to tweak a few things.
 
 Day 102:
 Continued work on the course. 
+
+Day 103:
+Some more planning for the course. 
