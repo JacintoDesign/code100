@@ -295,3 +295,6 @@ Continued work on the course.
 
 Day 103:
 Some more planning for the course. 
+
+Day 104: 
+Altered more of the CSS in the project. 
