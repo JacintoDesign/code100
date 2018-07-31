@@ -298,3 +298,6 @@ Some more planning for the course.
 
 Day 104: 
 Altered more of the CSS in the project. 
+
+Day 105:
+Evaluated prospect of using CSS Grid and Sass for project. 
