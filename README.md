@@ -304,3 +304,6 @@ Evaluated prospect of using CSS Grid and Sass for project.
 
 Day 106:
 Had a meeting about changes to the project including removing Bootstrap. 
+
+Day 107:
+Refined CSS further in the project. 
