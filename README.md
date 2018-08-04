@@ -1,4 +1,4 @@
-# 100 Days of Code (April 17, 2018 - August 1, 2018)
+# 100 Days of Code (April 17, 2018 - August 4, 2018)
 
 *This is a record of my 100 Days of Code. The following links are for projects I worked on during the challenge.* 
 
