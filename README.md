@@ -307,3 +307,6 @@ Had a meeting about changes to the project including removing Bootstrap.
 
 Day 107:
 Refined CSS further in the project. 
+
+Day 108:
+Researched further how to make icons in Sketch. 
