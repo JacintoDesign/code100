@@ -310,3 +310,6 @@ Refined CSS further in the project.
 
 Day 108:
 Researched further how to make icons in Sketch. 
+
+Day 109:
+Began re-vamping website to be a progressive web app. 
